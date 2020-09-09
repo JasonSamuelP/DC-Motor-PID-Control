@@ -1,2 +1,2 @@
-# DC-Motor-PID-Control
+# DC-Motor-PID-Control-Simulink
 Simulink
